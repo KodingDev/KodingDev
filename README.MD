@@ -30,6 +30,9 @@ I am the CEO 📢 of **[Zerite Development](https://zerite.dev)**,
 developer ✍ at **[@KatalystBrand](https://github.com/katalystbrand)** and
 lover of **learning 🧠** new things!
 
+<br />
+<br />
+
 #### 🌠 What I use
 
 <code><img height="20" src="https://raw.githubusercontent.com/KodingDev/KodingDev/master/assets/icons/kotlin.svg"></code>
