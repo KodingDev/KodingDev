@@ -1,4 +1,4 @@
-<img align="left" alt="Avatar" width="200px" src="https://avatars1.githubusercontent.com/u/23714764?s=460&u=8f23b3b089de0fb3b02ebe58906d6e8c6ca97245&v=4" />
+<img align="left" alt="Avatar" width="200px" src="https://raw.githubusercontent.com/KodingDev/KodingDev/master/assets/media/avatar.png" />
 
 ### 👋 Hiya! I'm [Koding](https://koding.dev)
 
