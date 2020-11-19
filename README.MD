@@ -25,7 +25,7 @@
 <br />
 <br />
 
-Hey! I'm Koding (*or Sophia*), a Full Stack Developer from **🦘 Australia**!
+Hey! I'm Koding (*or Stella*), a Full Stack Developer from **🦘 Australia**!
 I am the CEO 📢 of **[Zerite Development](https://zerite.dev)**, 
 developer ✍ at **[@KatalystBrand](https://github.com/katalystbrand)** and
 lover of **learning 🧠** new things!
