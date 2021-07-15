@@ -1,4 +1,4 @@
-<img align="left" alt="Avatar" width="200px" src="https://raw.githubusercontent.com/KodingDev/KodingDev/master/assets/media/avatar.png" />
+<!-- <img align="left" alt="Avatar" width="200px" src="https://raw.githubusercontent.com/KodingDev/KodingDev/master/assets/media/avatar.png" /> -->
 
 ### 👋 Hiya! I'm [Koding](https://koding.dev)
 
@@ -25,10 +25,9 @@
 <br />
 <br />
 
-Hey! I'm Koding (*or Stella*), a Full Stack Developer from **🦘 Australia**!
-I am the CEO 📢 of **[Zerite Development](https://zerite.dev)**, 
-developer ✍ at **[@KatalystBrand](https://github.com/katalystbrand)** and
-lover of **learning 🧠** new things!
+Full Stack Developer from **🦘 Australia** |
+CEO 📢 of **[Zerite Development](https://zerite.dev)** |
+Developer ✍ at **[@KatalystBrand](https://github.com/katalystbrand)**
 
 <br />
 <br />
@@ -62,7 +61,7 @@ lover of **learning 🧠** new things!
 **NOTE:** Some stats may be incorrect as contributions to organizations
 are not counted.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KodingDev&count_private=true&theme=tokyonight&show_icons=true)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KodingDev&count_private=true&theme=tokyonight&show_icons=true) -->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
