@@ -22,6 +22,8 @@
     <img align="left" alt="Spotify" width="20px" src="https://raw.githubusercontent.com/KodingDev/KodingDev/master/assets/icons/spotify.svg">
 </a>
 
+<br/>
+
 Full Stack Developer from **🦘 Australia** |
 CEO 📢 of **[Zerite Development](https://zerite.dev)** |
 Developer ✍ at **[@KatalystBrand](https://github.com/katalystbrand)**
