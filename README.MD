@@ -27,7 +27,7 @@
 
 Full Stack Developer from **🦘 Australia** |
 CEO 📢 of **[Zerite Development](https://zerite.dev)** |
-Developer ✍ at **[@KatalystBrand](https://github.com/katalystbrand)**
+I've worked with some cool people!
 
 #### 🌠 What I use
 
