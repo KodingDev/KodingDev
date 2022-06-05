@@ -1,64 +1,75 @@
-<!-- <img align="left" alt="Avatar" width="200px" src="https://raw.githubusercontent.com/KodingDev/KodingDev/master/assets/media/avatar.png" /> -->
+![](/assets/media/header.svg)
 
-### 👋 Hiya! I'm [Koding](https://koding.dev)
+## 👋 Thanks for stopping by!
 
-<a href="https://twitter.com/KodingDev_">
-    <img align="left" alt="Twitter" width="20px" src="https://raw.githubusercontent.com/KodingDev/KodingDev/master/assets/icons/twitter.svg">
-</a>
+I'm Koding, or Stella, a 17-year-old software developer from Australia.
 
-<a href="https://koding.dev/discord">
-    <img align="left" alt="Discord" width="20px" src="https://raw.githubusercontent.com/KodingDev/KodingDev/master/assets/icons/discord.svg">
-</a>
+- 🚀 CEO @ [Zerite Development](https://github.com/Zerite)
+- 💻 Working @ [MCParty](https://github.com/MCPartyLive), [Hero Galaxy](https://github.com/HeroGalaxy) - prev. [Craftadia](https://craftadia.com), [Origin Realms](https://originrealms.com) and more!
+- 🔍 Learn more about me [here](https://koding.dev)
 
-<a href="https://twitch.tv/KodingDev">
-    <img align="left" alt="Twitch" width="20px" src="https://raw.githubusercontent.com/KodingDev/KodingDev/master/assets/icons/twitch.svg">
-</a>
+## 📚 Socials
 
-<a href="https://reddit.com/u/TotallyNotKoding">
-    <img align="left" alt="Reddit" width="20px" src="https://raw.githubusercontent.com/KodingDev/KodingDev/master/assets/icons/reddit.svg">
-</a>
+- 📧 Email: [hello@koding.dev](mailto:hello@koding.dev)
+- 💻 Website: [koding.dev](https://koding.dev)
+- 🐦 Twitter: [@KodingDev\_](https://twitter.com/KodingDev_)
+- 📱 Discord: [Koding#0001](https://discord.com/users/341841981074309121)
 
-<a href="https://open.spotify.com/user/djitechdude">
-    <img align="left" alt="Spotify" width="20px" src="https://raw.githubusercontent.com/KodingDev/KodingDev/master/assets/icons/spotify.svg">
-</a>
+## 🤓 Want to know more?
 
-<br/>
-<br/>
+<details>
+    <summary><b>🛠️  Languages and Tools</b></summary>
+    <br/>
+    <p align="left">
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" />
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" />
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" />
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />
+    </p>
 
-Full Stack Developer from **🦘 Australia** |
-CEO 📢 of **[Zerite Development](https://zerite.dev)** |
-I've worked with some cool people!
+**...and more!**
+</details>
 
-#### 🌠 What I use
-
-<code><img height="20" src="https://raw.githubusercontent.com/KodingDev/KodingDev/master/assets/icons/kotlin.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/KodingDev/KodingDev/master/assets/icons/java.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/KodingDev/KodingDev/master/assets/icons/dart.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/KodingDev/KodingDev/master/assets/icons/javascript.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/KodingDev/KodingDev/master/assets/icons/node-dot-js.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/KodingDev/KodingDev/master/assets/icons/python.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/KodingDev/KodingDev/master/assets/icons/typescript.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/KodingDev/KodingDev/master/assets/icons/html5.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/KodingDev/KodingDev/master/assets/icons/css3.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/KodingDev/KodingDev/master/assets/icons/graphql.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/KodingDev/KodingDev/master/assets/icons/intellijidea.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/KodingDev/KodingDev/master/assets/icons/visualstudiocode.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/KodingDev/KodingDev/master/assets/icons/github.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/KodingDev/KodingDev/master/assets/icons/git.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/KodingDev/KodingDev/master/assets/icons/docker.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/KodingDev/KodingDev/master/assets/icons/react.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/KodingDev/KodingDev/master/assets/icons/next-dot-js.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/KodingDev/KodingDev/master/assets/icons/linux.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/KodingDev/KodingDev/master/assets/icons/mongodb.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/KodingDev/KodingDev/master/assets/icons/nginx.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/KodingDev/KodingDev/master/assets/icons/redis.svg"></code>
-
-#### 📈 Stats
+<details>
+    <summary><b>📈  Stats</b></summary>
 
 **NOTE:** Some stats may be incorrect as contributions to organizations
 are not counted.
 
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KodingDev&count_private=true&theme=tokyonight&show_icons=true) -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KodingDev&count_private=true&theme=tokyonight&show_icons=true)
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
@@ -82,7 +93,5 @@ Windows                  13 hrs 29 mins      ███████████�
 Mac                      12 hrs 55 mins      ████████████░░░░░░░░░░░░░   48.9%
 
 ```
-
-
- Last Updated on 30/11/2021
 <!--END_SECTION:waka-->
+</details>

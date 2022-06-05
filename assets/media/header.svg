@@ -1,0 +1,48 @@
+<svg fill="none" viewBox="0 0 800 100" width="800" height="100" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                @keyframes gradientText {
+                    0% {
+                        background-position: 0% 50%;
+                    }
+
+                    100% {
+                        background-position: 200% 50%;
+                    }
+                }
+
+                h1 {
+                    font-family: 'Inter',
+                        -apple-system,
+                        BlinkMacSystemFont,
+                        'Segoe UI',
+                        'Roboto',
+                        'Oxygen',
+                        'Ubuntu',
+                        'Cantarell',
+                        'Fira Sans',
+                        'Droid Sans',
+                        'Helvetica Neue',
+                        sans-serif;
+                    
+                    margin: 0;
+                    font-size: 4em;
+                    font-weight: 900;
+                    letter-spacing: -.05em;
+                    text-align: center;
+
+                    background: linear-gradient(-45deg, #f06292 0%, #463ebb 50%, #f06292 100%);
+                    background-size: 200%;
+                    background-clip: text;
+                    -webkit-background-clip: text;
+                    -webkit-text-fill-color: transparent;
+                    -webkit-animation: gradientText linear 3s infinite;
+                    animation: gradientText linear 3s infinite;
+                }
+            </style>
+
+            <h1>Hey, I'm Koding</h1>
+        </div>
+    </foreignObject>
+</svg>
