@@ -2,7 +2,7 @@
 
 ## 👋 Thanks for stopping by!
 
-I'm Koding, or Stella, a 17-year-old software developer from Australia.
+I'm Stella (she/her), a 17-year-old software developer from Australia.
 
 - 🚀 CEO @ [Zerite Development](https://github.com/Zerite)
 - 💻 Working @ [MCParty](https://github.com/MCPartyLive), [Hero Galaxy](https://github.com/HeroGalaxy) - prev. [Craftadia](https://craftadia.com), [Origin Realms](https://originrealms.com) and more!
@@ -16,6 +16,13 @@ I'm Koding, or Stella, a 17-year-old software developer from Australia.
 - 📱 Discord: [Koding#0001](https://discord.com/users/341841981074309121)
 
 ## 🤓 Want to know more?
+
+<details>
+    <summary><b>👀  What I'm doing</b></summary>
+    <br/>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/341841981074309121)](https://discord.com/users/341841981074309121)
+</details>
 
 <details>
     <summary><b>🛠️  Languages and Tools</b></summary>
