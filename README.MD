@@ -79,7 +79,7 @@ are not counted.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KodingDev&count_private=true&theme=tokyonight&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-824%20hrs%2059%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -105,6 +105,6 @@ Mac                      9 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 17/08/2022 02:24:20 UTC
+ Last Updated on 18/08/2022 02:24:47 UTC
 <!--END_SECTION:waka-->
 </details>
