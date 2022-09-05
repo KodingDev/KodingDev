@@ -79,9 +79,31 @@ are not counted.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KodingDev&count_private=true&theme=tokyonight&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C447%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Australia/Sydney
+
+💬 Programming Languages: 
+Kotlin                   15 hrs 29 mins      ██████████████░░░░░░░░░░░   56.35% 
+Java                     8 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   31.42% 
+JSON                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.54% 
+YAML                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.01% 
+Markdown                 28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.72%
+
+🔥 Editors: 
+IntelliJ                 26 hrs              ███████████████████████░░   94.64% 
+VS Code                  1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.36%
+
+💻 Operating System: 
+Windows                  19 hrs 44 mins      ██████████████████░░░░░░░   71.82% 
+Mac                      7 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   28.18%
+
+```
 
 
- Last Updated on 04/09/2022 02:23:56 UTC
+ Last Updated on 05/09/2022 02:28:26 UTC
 <!--END_SECTION:waka-->
 </details>
