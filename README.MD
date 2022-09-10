@@ -79,7 +79,7 @@ are not counted.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KodingDev&count_private=true&theme=tokyonight&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C484%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C493%20hrs%202%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -87,8 +87,8 @@ are not counted.
 ⌚︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Kotlin                   26 hrs 14 mins      █████████████░░░░░░░░░░░░   52.81% 
-Java                     12 hrs 19 mins      ██████░░░░░░░░░░░░░░░░░░░   24.82% 
+Kotlin                   26 hrs 12 mins      █████████████░░░░░░░░░░░░   52.77% 
+Java                     12 hrs 20 mins      ██████░░░░░░░░░░░░░░░░░░░   24.86% 
 TypeScript               6 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.27% 
 JSON                     1 hr 22 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.77% 
 TOML                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.14%
@@ -105,6 +105,6 @@ Mac                      15 hrs 22 mins      ███████░░░░�
 ```
 
 
- Last Updated on 09/09/2022 02:30:46 UTC
+ Last Updated on 10/09/2022 02:31:13 UTC
 <!--END_SECTION:waka-->
 </details>
