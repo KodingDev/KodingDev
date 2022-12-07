@@ -13,7 +13,7 @@ I'm Stella (she/her), a 17-year-old software developer from Australia.
 - 📧 Email: [hello@koding.dev](mailto:hello@koding.dev)
 - 💻 Website: [koding.dev](https://koding.dev)
 - 🐦 Twitter: [@KodingDev\_](https://twitter.com/KodingDev_)
-- 📱 Discord: [Koding#0001](https://discord.com/users/341841981074309121)
+- 📱 Discord: [stella#0420](https://discord.com/users/341841981074309121)
 
 ## 🤓 Want to know more?
 
