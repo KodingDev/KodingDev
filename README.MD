@@ -87,17 +87,16 @@ are not counted.
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-PHP                      1 min               █████████████████████████   99.33 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PhpStorm                 1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 09/10/2023 00:19:16 UTC
+ Last Updated on 10/10/2023 00:18:27 UTC
 <!--END_SECTION:waka-->
 </details>
